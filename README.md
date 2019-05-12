@@ -73,7 +73,7 @@ TrackTor is a platform independent tool that provides statistical and analytical
 
 ## TrackTor Demo
 
-![Demo](TrackTor/Icons/Tool Demo.gif)
+![Demo](TrackTor/Icons/Tool_Demo.gif)
 
 ## About the Developers
 
